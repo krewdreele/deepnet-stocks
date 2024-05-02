@@ -1,6 +1,5 @@
 # deepnet-stocks
 Predicting Stocks with TensorFlow: A Plan
-Here's a potential plan to build a stock prediction model using TensorFlow:
 ## 1. Data Acquisition:
   ### Historical Stock Prices:  
     Yahoo Finance: Download historical data for specific stocks or indices using their API or web interface.  
