@@ -2,7 +2,7 @@
 Predicting Stocks with TensorFlow: A Plan
 Here's a potential plan to build a stock prediction model using TensorFlow:
 1. Data Acquisition:
-  Historical Stock Prices:
+  Historical Stock Prices:\n
     Yahoo Finance: Download historical data for specific stocks or indices using their API or web interface.
     Quandl: Access a wide range of financial and economic data, including historical stock prices.
     Alpha Vantage: Another platform offering historical and real-time financial data through an API.
